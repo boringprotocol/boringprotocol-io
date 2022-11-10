@@ -107,13 +107,13 @@ const Home: NextPage = () => {
               <p className="text-sm mt-4">Browse the internet through any of our provider&apos;s endpoints around the world.
               </p>
               <p className="text-sm mt-4">
-              Come and join the discussion and learn more with our community of node operators on <span className="border-b border-dotted"><IoLogoDiscord className="inline-flex mr-1" />Discord</span>
+              Come and join the discussion and learn more with our community of node operators on <a href="https://discord.gg/gJt4X8qnJz" target="_blank" className="border-b border-dotted"><IoLogoDiscord className="inline-flex mr-1" />Discord</a>
               </p>
               <p className="text-sm mt-4">
               Learn more about Boring on <a href="https://medium.com/@boringprotocol/" target="_blank" className="border-b border-dotted "><IoLogoMedium className="inline-flex mr-1" />Medium</a>
               </p>
               <p className="text-sm mt-4">
-              Watch <span className="border-b border-dotted "><IoLogoTwitter className="inline-flex mr-1" />Twitter</span> for updates. 
+              Watch <a href="https://twitter.com/boringprotocol/" target="_blank" className="border-b border-dotted "><IoLogoTwitter className="inline-flex mr-1" />Twitter</a> for updates. 
               </p>
               
            
