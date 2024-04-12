@@ -43,8 +43,12 @@ const Home: NextPage = () => {
 
         {/* desktop head/nav */}
         <div className='hidden sm:visible sm:w-12 sm:inline-block sm:h-screen sm:float-left sm:border-r border-gray-lightest dark:border-gray-dark'>
-          <span className="inline-block align-top mt-3 text-boring-black dark:text-boring-white">
+          <span className="inline-block align-top mt-3 text-ornage dark:text-orange">
             <Logo />
+          </span>
+
+          <span className="inline-block align-top mt-3 text-boring-black dark:text-boring-white">
+
             {renderThemeToggle()}
           </span>
         </div>
