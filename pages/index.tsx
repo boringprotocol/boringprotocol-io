@@ -126,7 +126,7 @@ const Home: NextPage = () => {
               <span className="w-6 h-6 mr-2">
                 <Logo />
               </span>
-              <h1 className="text-xl font-semibold uppercase">Boring Protocol</h1>
+              <h1 className="text-2xl font-semibold uppercase">Boring Protocol</h1>
             </header>
             <p className="text-sm ml-1">
               A Decentralized VPN on <span className="text-purple">Solana</span>.
@@ -136,7 +136,7 @@ const Home: NextPage = () => {
             </p>
 
 
-            <p className="text-sm mt-4 ml-1">
+            <p className="text-xs mt-4 ml-1">
               Follow us on <a href="https://twitter.com/boringprotocol/" target="_blank" className="text-blue-500 hover:text-blue-600 border-b border-dotted">
                 <IoLogoTwitter className="inline-block mr-1" />Twitter
               </a> for more.
